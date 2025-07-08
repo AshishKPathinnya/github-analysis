@@ -1,6 +1,9 @@
 # GitHub Analysis Dashboard 
  
-Welcome to the GitHub Analysis Dashboard, a powerful web application designed to explore and visualize GitHub repository data. Built with modern web technologies, this project aims to provide an interactive platform for analyzing repository statistics and identifying contribution opportunities. 
+Welcome to the GitHub Analysis Dashboard, a powerful web application designed to explore and visualize GitHub repository data. Built with modern web technologies, this project aims to provide an interactive platform for analyzing repository statistics and identifying contribution opportunities.
+
+This dataset is a collection of 1052 GitHub repositories, along with other columns such as the primary language used in it, fork count, open pull requests, and issue count.
+Kaggle link: https://www.kaggle.com/datasets/nikhil25803/github-dataset/data?select=github_dataset.csv 
  
 ## Features 
 - **Data Overview**: Displays a detailed table of repository metrics including stars, forks, issues, pull requests, contributors, and languages. 
